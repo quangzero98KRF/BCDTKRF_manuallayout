@@ -1,0 +1,6 @@
+{
+  "name": "Database Connection and Dashboard Builder",
+  "description": "Cấu hình kết nối PostgreSQL/MySQL, đồng bộ schema thực tế, sinh SQL và trực quan hóa dữ liệu theo chế độ Strict Metadata Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
